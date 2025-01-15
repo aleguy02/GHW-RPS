@@ -3,4 +3,5 @@ project(MLH_RPS)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(MLH_RPS main.cpp)
+add_executable(MLH_RPS main.cpp
+)
