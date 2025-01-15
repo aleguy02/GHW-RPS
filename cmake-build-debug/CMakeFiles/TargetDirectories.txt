@@ -1,3 +1,0 @@
-C:/Users/darth/OneDrive/Desktop/Projects/Personal/MLH RPS/cmake-build-debug/CMakeFiles/MLH_RPS.dir
-C:/Users/darth/OneDrive/Desktop/Projects/Personal/MLH RPS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/darth/OneDrive/Desktop/Projects/Personal/MLH RPS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
